@@ -1,0 +1,32 @@
+
+Gsquid:S1148¯"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8ûÙÆ´ğ,
+:squid:S3626‰"Remove this redundant jump.(ÉŠ©ƒ8ûÙÆ´ğ,
+{squid:S2226,"XRemove this misleading mutable servlet instance field or make it "static" and/or "final"(ÌÇéüÿÿÿÿ8ûÙÆ´ğ,
+Jsquid:S1481‚"+Remove this unused "params" local variable.(Ñïé®8‘¤·ğ,
+V
+squid:S106i"9Replace this use of System.out or System.err by a logger.(ô©¦ı8ûÙÆ´ğ,
+:squid:S3626’"Remove this redundant jump.(ÉŠ©ƒ8‘¤·ğ,
+:squid:S3626•"Remove this redundant jump.(ÉŠ©ƒ8‘¤·ğ,
+|
+squid:S135•"YReduce the total number of break and continue statements in this loop to use at most one.(œßƒÒÿÿÿÿÿ8ûÙÆ´ğ,
+Ysquid:S1854‚":Remove this useless assignment to local variable "params".(Ñïé®8‘¤·ğ,
+dsquid:S2147°"ECombine this catch with the one at line 174, which has the same body.(Å¡ß8ûÙÆ´ğ,
+Gsquid:S1148³"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8ûÙÆ´ğ,
+V
+squid:S106G"9Replace this use of System.out or System.err by a logger.(ï½°½8ûÙÆ´ğ,
+Gsquid:S1148¤"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8‘¤·ğ,
+w
+squid:S135Œ"YReduce the total number of break and continue statements in this loop to use at most one.(¹ÒĞ’8‘¤·ğ,
+v
+squid:S135x"YReduce the total number of break and continue statements in this loop to use at most one.(¼ßğ¥8ûÙÆ´ğ,
+:squid:S3626«"Remove this redundant jump.(ÉŠ©ƒ8ûÙÆ´ğ,
+vsquid:S2226""XRemove this misleading mutable servlet instance field or make it "static" and/or "final"(ÉÿÇ¬8ûÙÆ´ğ,
+vsquid:S2226'"XRemove this misleading mutable servlet instance field or make it "static" and/or "final"(™à»É8ûÙÆ´ğ,
+Gsquid:S1148ˆ"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8ûÙÆ´ğ,
+|squid:S2293,"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÌÇéüÿÿÿÿ8ûÙÆ´ğ,
+Ssquid:S1172É"/Remove this unused method parameter "location".(¿ƒï“ûÿÿÿÿ8ûÙÆ´ğ,
+Gsquid:S1148±"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8ûÙÆ´ğ,
+vsquid:S2226"XRemove this misleading mutable servlet instance field or make it "static" and/or "final"(ØÉ©Ì8ûÙÆ´ğ,
+Gsquid:S1148Ø"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8 ×Ğ´ğ,
+Gsquid:S1148Ñ"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8 ×Ğ´ğ,
+dsquid:S2147²"ECombine this catch with the one at line 174, which has the same body.(¯áè8ûÙÆ´ğ,
